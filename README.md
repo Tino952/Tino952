@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tino952
-- 👀 I’m interested in Frontend Web Development
+- 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning CSS, HTML and JS!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
