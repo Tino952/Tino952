@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tino952
 - 👀 I’m interested in Web Development, UX/UI and Digital Project Management
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on exciting web development projects
 
 <!---
